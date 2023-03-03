@@ -1,0 +1,24 @@
+{
+    "name": "package",
+    "version": "1.0.0",
+    "description": "Employee Tracker",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Bxrg/Challenge-12--MySQL"
+    },
+    "author": "Bxrg",
+    "license": "N/A",
+    "bugs": {
+      "url": "https://github.com/Bxrg/Challenge-12--MySQL/issues"
+    },
+    "homepage": "https://github.com/Bxrg/Challenge-12--MySQL/#readME",
+    "dependencies": {
+      "console.table": "^0.10.0",
+      "inquirer": "^7.0.0",
+      "mysql": "^2.17.1"
+    }
+  }
